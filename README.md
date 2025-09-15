@@ -29,6 +29,7 @@ Key product performance metrics:
 - **Frequency** → Monthly transactions per active user.  
 - **Retention** → % of users continuing after 3 months.  
 - **Revenue impact** → Average Revenue per User (ARPU) uplift.  
+  Benchmarked against **GrabPay / ShopeePay** (usage frequency) and **BNPL adoption trends**.
 
 ---
 
