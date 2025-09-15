@@ -1,6 +1,6 @@
 #  Case Study: Driving Product Growth in Touch ’n Go eWallet
 
-##  Overview
+##   📌 Overview
 This case study is tailored for a **Product Analyst role at Touch ’n Go (TNG)**.  
 It demonstrates how product performance can be tracked, analyzed, and improved through a **data-driven approach**.
 
@@ -12,7 +12,7 @@ The study covers:
 
 ---
 
-## 1. Context & Objective
+##  📌 1. Context & Objective
 Touch ’n Go (TNG) eWallet has one of the largest user bases in Malaysia, anchored in tolls, parking, and public transport.  
 In recent years, TNG has expanded into **financial services** (GO+, GOpinjam, GOprotect) to drive monetization.
 
@@ -21,7 +21,7 @@ Analyze product performance for one vertical (e.g., GO+ micro-investment), ident
 
 ---
 
-## 2. Metrics & Benchmarks
+##  📌 2. Metrics & Benchmarks
 Key product performance metrics:
 
 - **Adoption metrics** → % of active users using the feature Go+.  
@@ -33,7 +33,7 @@ Key product performance metrics:
 
 ---
 
-## 3. Analysis & Insights
+##  📌 3. Analysis & Insights
 
 ### Focus: GO+ Micro-Investment Product
 **Finding 1: Adoption gap**  
@@ -50,7 +50,7 @@ Key product performance metrics:
 
 ---
 
-## 4. Product Improvement Strategy
+##  📌 4. Product Improvement Strategy
 
 ### (a) Awareness & Onboarding
 - In-app nudges: *“Earn daily returns while your balance sits here”*.  
@@ -66,7 +66,7 @@ Key product performance metrics:
 
 ---
 
-## 5. Post-Implementation Metrics
+##  📌 5. Post-Implementation Metrics
 
 - GO+ adoption ↑ from **15% → 25%**  
 - Retention of new users ↑ from **40% → 60%** (3 months)  
@@ -75,7 +75,7 @@ Key product performance metrics:
 
 ---
 
-## 6. Broader Value
+##  📌 6. Broader Value
 
 - Builds **habitual use of TNG eWallet** beyond tolls/parking  
 - Strengthens **trust positioning** in fintech vs GrabPay/ShopeePay  
