@@ -1,4 +1,4 @@
-#  Case Study: Driving Product Growth in Touch ’n Go eWallet
+# Driving Product Growth in Touch ’n Go eWallet
 
 ##   📌 Overview
 This case study is tailored for a **Product Analyst role at Touch ’n Go (TNG)**.  
